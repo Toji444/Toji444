@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toji444
+- 👋 Hi, I’m @Tanush
 - 👀 I’m interested in exploring the world of computers
 - 🌱 I’m currently learning basics of c programming 
 - 💞️ I’m looking to collaborate on
